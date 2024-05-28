@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: gateway
-        image: peripapapy/school-app-gateway
+        image: yassine2023/gateway-service
         ports:
         - containerPort: 5001
 ---
